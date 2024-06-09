@@ -12,13 +12,16 @@ This video and this github is what I followed:
 ---
 # Questions
 
-- Where are these random numbers coming from and do they matter? (`batch_size` = 5, `epoch` = 20, `lr=0.01`) etc
-- Understading the `MyNeuralNet` class more (why 3 matrix's?, understanding the foward pass more?)
-- dont know what `squeeze` or `view` does
-- understanding why everything is a tensor
-- `RELU`
-- The cross entropy loss function 
-- Stochastic gradient descecnt
-- why zero out the gradient
+1. Where are these random numbers coming from and do they matter? (`batch_size` = 5, `epoch` = 20, `lr=0.01`) etc
+2. Understading the `MyNeuralNet` class more (why 3 matrix's?, understanding the foward pass more?)
+3. dont know what `squeeze` or `view` does
+4. understanding why everything is a tensor
+5. `RELU`
+6. The cross entropy loss function 
+7. Stochastic gradient descecnt
+8. why zero out the gradient
 
+---
+# Anserws
+1. `lr=0.01` stands for learning rate and is a hyper paremeter in Stochastic gradient descecnt
 
